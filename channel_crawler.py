@@ -153,8 +153,8 @@ def processchats(chat):
 	nodes[chat]["no_messages"] = len(messagelist)
 
 name = "anon"
-api_id = 803086
-api_hash = 'ad05698671e89715aa722e49cb4901a8'
+api_id = 
+api_hash = ''
 
 # "bant4chan" (too big)
 chats = ["HansTerrorwave","WhitesOnlyLounge","FascistLibrary","WhiteIsRight","CIGtelegram","TERRORWAVEREFINED","thirdpositionmemesquad","BellumActaNews","Uncle_Paul1488","randomanonch","RandomMeetingPoint","FreeHelicopterRides","Nieuwshoorn","sgmeme","Neonrightmemes","reactionary","RedPills","Multiculturalism","rightwingdeathsquad","TINPS","End_Cultural_Marxism"]

@@ -5,8 +5,8 @@ import json
 # These example values won't work. You must get your own api_id and
 # api_hash from https://my.telegram.org, under API Development.
 name = "anon"
-api_id = 803086
-api_hash = 'ad05698671e89715aa722e49cb4901a8'
+api_id =
+api_hash = ''
 
 #chat = "WhiteIsRight"
 chat = "noticiascaracol"
